@@ -1,0 +1,11 @@
+h1{
+    color:red;
+}
+.box{
+    width:200px;
+    height:200px;
+border:2px dashed black;
+display:flex;
+justify-content:center;
+align-items:center;
+}
