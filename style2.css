@@ -1,20 +1,19 @@
-#first
-{
+#first{
     margin: 50px;
     padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: orchid;
-
+    color: brown;
 }
-.nav{
+.nav
+{
     display: flex;
-    justify-content:flex-end;
-    color: rebeccapurple(178,8,8);
+    justify-content: flex-end;
+   color: rgb(150, 9, 9); 
 }
 #ab{
-    color:aquamarine(157,10,10);
+    color: rgb(214, 10, 10);
 }
 #third{
     display: flex;
@@ -23,8 +22,9 @@
 }
 #last{
     margin: 60px;
-    padding: 60px;
+    padding: 90px;
     display: flex;
     justify-content: center;
-
 }
+ 
+ 

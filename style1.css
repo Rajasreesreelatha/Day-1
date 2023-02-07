@@ -1,11 +1,30 @@
-h1{
-    color:red;
+#first
+{
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orchid;
+
 }
-.box{
-    width:200px;
-    height:200px;
-border:2px dashed black;
-display:flex;
-justify-content:center;
-align-items:center;
+.nav{
+    display: flex;
+    justify-content:flex-end;
+    color: rebeccapurple(178,8,8);
+}
+#ab{
+    color:aquamarine(157,10,10);
+}
+#third{
+    display: flex;
+    justify-content:center;
+    margin: 0;
+}
+#last{
+    margin: 60px;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+
 }
